@@ -1,0 +1,2 @@
+- 👀 I am interested in gym, I want to try myself with Web development
+- 🌱 I'm currently learning layout, I want to try to do a couple projects and start learning JS
